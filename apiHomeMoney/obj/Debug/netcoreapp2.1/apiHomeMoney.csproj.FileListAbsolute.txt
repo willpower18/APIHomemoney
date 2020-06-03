@@ -1,0 +1,15 @@
+C:\Users\Will\source\repos\apiHomeMoney\apiHomeMoney\obj\Debug\netcoreapp2.1\apiHomeMoney.csprojAssemblyReference.cache
+C:\Users\Will\source\repos\apiHomeMoney\apiHomeMoney\obj\Debug\netcoreapp2.1\apiHomeMoney.csproj.CoreCompileInputs.cache
+C:\Users\Will\source\repos\apiHomeMoney\apiHomeMoney\obj\Debug\netcoreapp2.1\apiHomeMoney.AssemblyInfoInputs.cache
+C:\Users\Will\source\repos\apiHomeMoney\apiHomeMoney\obj\Debug\netcoreapp2.1\apiHomeMoney.AssemblyInfo.cs
+C:\Users\Will\source\repos\apiHomeMoney\apiHomeMoney\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Will\source\repos\apiHomeMoney\apiHomeMoney\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Will\source\repos\apiHomeMoney\apiHomeMoney\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Will\source\repos\apiHomeMoney\apiHomeMoney\bin\Debug\netcoreapp2.1\apiHomeMoney.deps.json
+C:\Users\Will\source\repos\apiHomeMoney\apiHomeMoney\bin\Debug\netcoreapp2.1\apiHomeMoney.runtimeconfig.json
+C:\Users\Will\source\repos\apiHomeMoney\apiHomeMoney\bin\Debug\netcoreapp2.1\apiHomeMoney.runtimeconfig.dev.json
+C:\Users\Will\source\repos\apiHomeMoney\apiHomeMoney\bin\Debug\netcoreapp2.1\apiHomeMoney.dll
+C:\Users\Will\source\repos\apiHomeMoney\apiHomeMoney\obj\Debug\netcoreapp2.1\apiHomeMoney.genruntimeconfig.cache
+C:\Users\Will\source\repos\apiHomeMoney\apiHomeMoney\obj\Debug\netcoreapp2.1\apiHomeMoney.RazorAssemblyInfo.cache
+C:\Users\Will\source\repos\apiHomeMoney\apiHomeMoney\obj\Debug\netcoreapp2.1\apiHomeMoney.RazorAssemblyInfo.cs
+C:\Users\Will\source\repos\apiHomeMoney\apiHomeMoney\obj\Debug\netcoreapp2.1\apiHomeMoney.RazorTargetAssemblyInfo.cache
