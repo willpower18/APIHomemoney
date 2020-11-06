@@ -7,5 +7,8 @@
 <br/>
 <p>Na pasta do projeto, digite: <b>dotnet restore</b></p>
 <p>Depois <b>dotnet run</b> para rodar o projeto em ambiente de Dev</p>
-<p>Para produção utilizar <b>dotnet build</b> e após copiar os arquivos para o servidor</p>
+<p>Para compilar oprojeto utilizar <b>dotnet build</b> </p>
+<p>Para Produção <b>dotnet publish</b> e após copiar os arquivos para o servidor</p>
 <p>Também hospedável com Docker</p>
+<br>
+<p><a href="https://docs.microsoft.com/pt-br/dotnet/core/tools/">Link para documentação do dotnet cli</a></p>
